@@ -97,10 +97,6 @@ This confirms that the Docker image created by the CI pipeline is functional and
 ### 4️⃣ GitHub Actions – Workflow Run Summary
 ![Workflow Run Summary](Screenshots/04-github-actions-workflow-run-summary.png)
 
----
-
-### 5️⃣ GitHub Actions – Docker Build Job Success
-![Docker Build Success](Screenshots/05-github-actions-docker-build-success.png)
 
 ---
 
